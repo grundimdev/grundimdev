@@ -111,6 +111,7 @@ def render(langs):
 
 if __name__ == "__main__":
     if not TOKEN:
-        sys.exit("LANGUAGES_TOKEN secret is not set, keeping the current card.")
+        print("LANGUAGES_TOKEN secret is not set, keeping the current card.")
+        sys.exit(0)
     with open(OUT, "w") as f:
         f.write(render(collect()))
