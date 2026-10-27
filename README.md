@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=grundimdev&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E&stroke=30363D" alt="Commit streak" />
+<img src="https://streak-stats.demolab.com?user=grundimdev&hide_border=true&background=00000000&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E&stroke=30363D" alt="Commit streak" />
 
 <br/><br/>
 
