@@ -1,4 +1,5 @@
 """Builds assets/languages.svg from the language stats of all repos owned by the token's user."""
+import datetime
 import json
 import os
 import sys
@@ -82,7 +83,9 @@ def render(langs):
     <text x="{W-24}" y="{y+13}" class="pct" text-anchor="end">{p:.1f}%</text>
   </g>''')
     rows = "\n".join(rows)
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Languages">
+    stamp = datetime.date.today().isoformat()
+    return f'''<!-- updated {stamp} -->
+<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Languages">
   <style>
     :root {{ --bg:#ffffff; --border:#e4e7eb; --fg:#1f2328; --muted:#656d76; --track:#eef1f4; }}
     @media (prefers-color-scheme: dark) {{
