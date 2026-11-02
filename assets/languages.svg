@@ -1,4 +1,4 @@
-<!-- updated 2026-10-27 -->
+<!-- updated 2026-11-02 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="310" viewBox="0 0 495 310" role="img" aria-label="Languages">
   <style>
     :root { --bg:#ffffff; --border:#e4e7eb; --fg:#1f2328; --muted:#656d76; --track:#eef1f4; }
@@ -26,49 +26,49 @@
     <text x="42" y="69" class="name">Dart / Flutter</text>
     <rect x="150" y="60" width="270" height="10" rx="5" class="track"/>
     <rect x="150" y="60" width="270" height="10" rx="5" fill="#00B4AB" class="bar" style="animation-delay:0.20s"/>
-    <text x="471" y="69" class="pct" text-anchor="end">47.7%</text>
+    <text x="471" y="69" class="pct" text-anchor="end">43.5%</text>
   </g>
   <g class="row" style="animation-delay:0.15s">
     <circle cx="28" cy="95" r="5" fill="#2E9E3E"/>
     <text x="42" y="99" class="name">C# / Unity</text>
     <rect x="150" y="90" width="270" height="10" rx="5" class="track"/>
-    <rect x="150" y="90" width="104" height="10" rx="5" fill="#2E9E3E" class="bar" style="animation-delay:0.35s"/>
-    <text x="471" y="99" class="pct" text-anchor="end">18.4%</text>
+    <rect x="150" y="90" width="158" height="10" rx="5" fill="#2E9E3E" class="bar" style="animation-delay:0.35s"/>
+    <text x="471" y="99" class="pct" text-anchor="end">25.5%</text>
   </g>
   <g class="row" style="animation-delay:0.30s">
     <circle cx="28" cy="125" r="5" fill="#E8C547"/>
     <text x="42" y="129" class="name">JavaScript</text>
     <rect x="150" y="120" width="270" height="10" rx="5" class="track"/>
     <rect x="150" y="120" width="96" height="10" rx="5" fill="#E8C547" class="bar" style="animation-delay:0.50s"/>
-    <text x="471" y="129" class="pct" text-anchor="end">16.9%</text>
+    <text x="471" y="129" class="pct" text-anchor="end">15.4%</text>
   </g>
   <g class="row" style="animation-delay:0.45s">
     <circle cx="28" cy="155" r="5" fill="#E34C26"/>
     <text x="42" y="159" class="name">HTML</text>
     <rect x="150" y="150" width="270" height="10" rx="5" class="track"/>
     <rect x="150" y="150" width="54" height="10" rx="5" fill="#E34C26" class="bar" style="animation-delay:0.65s"/>
-    <text x="471" y="159" class="pct" text-anchor="end">9.5%</text>
+    <text x="471" y="159" class="pct" text-anchor="end">8.6%</text>
   </g>
   <g class="row" style="animation-delay:0.60s">
     <circle cx="28" cy="185" r="5" fill="#663399"/>
     <text x="42" y="189" class="name">CSS</text>
     <rect x="150" y="180" width="270" height="10" rx="5" class="track"/>
     <rect x="150" y="180" width="26" height="10" rx="5" fill="#663399" class="bar" style="animation-delay:0.80s"/>
-    <text x="471" y="189" class="pct" text-anchor="end">4.6%</text>
+    <text x="471" y="189" class="pct" text-anchor="end">4.2%</text>
   </g>
   <g class="row" style="animation-delay:0.75s">
     <circle cx="28" cy="215" r="5" fill="#B07219"/>
     <text x="42" y="219" class="name">Java</text>
     <rect x="150" y="210" width="270" height="10" rx="5" class="track"/>
     <rect x="150" y="210" width="6" height="10" rx="5" fill="#B07219" class="bar" style="animation-delay:0.95s"/>
-    <text x="471" y="219" class="pct" text-anchor="end">1.1%</text>
+    <text x="471" y="219" class="pct" text-anchor="end">1.0%</text>
   </g>
   <g class="row" style="animation-delay:0.90s">
     <circle cx="28" cy="245" r="5" fill="#3178C6"/>
     <text x="42" y="249" class="name">TypeScript</text>
     <rect x="150" y="240" width="270" height="10" rx="5" class="track"/>
     <rect x="150" y="240" width="6" height="10" rx="5" fill="#3178C6" class="bar" style="animation-delay:1.10s"/>
-    <text x="471" y="249" class="pct" text-anchor="end">1.1%</text>
+    <text x="471" y="249" class="pct" text-anchor="end">1.0%</text>
   </g>
   <g class="row" style="animation-delay:1.05s">
     <circle cx="28" cy="275" r="5" fill="#336790"/>
